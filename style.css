@@ -115,3 +115,18 @@ ul{
     padding-left: 5px;
     columns: 2;
 }
+
+#videoo{
+background-color: #0C3D14;
+padding: 50px 50px;
+
+padding-bottom: 38%;
+
+position: relative;
+}
+iframe{
+position: absolute;
+top: 5%;
+width: 90%;
+height: 90%;
+}
