@@ -122,11 +122,14 @@ padding: 50px 50px;
 
 padding-bottom: 38%;
 
+
 position: relative;
 }
 iframe{
 position: absolute;
 top: 5%;
+left: 5%;
+right: 5%;
 width: 90%;
 height: 90%;
 }
